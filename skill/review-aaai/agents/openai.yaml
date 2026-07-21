@@ -1,0 +1,7 @@
+interface:
+  display_name: "审AAAI"
+  short_description: "按 AAAI 标准预审论文并生成可执行的多视角审稿包"
+  default_prompt: "使用 $review-aaai 审阅指定的 AAAI 投稿。"
+
+policy:
+  allow_implicit_invocation: true

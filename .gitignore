@@ -1,0 +1,27 @@
+# Review outputs and private manuscripts
+**/AAAI_review/
+*.pdf
+
+# Local runtime state
+.agents/
+.codex/
+.claude/
+
+# Temporary and generated files
+tmp/
+*.tmp
+*.bak
+*.log
+__pycache__/
+*.py[cod]
+
+# Internal development material
+PLAN.md
+docs/superpowers/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
